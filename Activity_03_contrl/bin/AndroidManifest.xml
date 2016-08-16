@@ -25,7 +25,8 @@
         
         <activity 
             android:name=".other"
-            android:label="@string/other" >
+            android:label="@string/other" 
+            android:theme="@android:style/Theme.Dialog">
         </activity>
         
         <activity 
