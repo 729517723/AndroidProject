@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.activity_01.R.id"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Text"/>
+<fullyQualifiedTypeName name="com.example.activity_02_intents.MainActivity.MyButtonListen"/>
+<fullyQualifiedTypeName name="com.example.activity_02_intents.Other"/>
+<fullyQualifiedTypeName name="com.example.activity_02_intents.R.layout"/>
+<fullyQualifiedTypeName name="android.provider.Contacts.Intents"/>
+<fullyQualifiedTypeName name="com.example.activity_02_intents.MainActivity"/>
+<fullyQualifiedTypeName name="com.example.activity_02_intents.Other_Activity.clickListener"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface.OnClickListener"/>
+<fullyQualifiedTypeName name="android.support.v4.widget.SimpleCursorAdapter.ViewBinder"/>
+<fullyQualifiedTypeName name="com.example.activity_02_intents.R.id"/>
+<fullyQualifiedTypeName name="com.example.activity_02_intents.Other_Activity"/>
+<fullyQualifiedTypeName name="com.example.activity_02_intents.R.string"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="android.telephony.gsm.SmsManager"/>
+<fullyQualifiedTypeName name="android.telephony.gsm.SmsMessage"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.id"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="com.example.activity_03_contrl.other"/>
+<fullyQualifiedTypeName name="android.R.string"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.example.activity_03_contrl.R.string"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="com.example.activity_03_contrl.R.layout"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.example.activity_03_contrl.MainActivity"/>
+<fullyQualifiedTypeName name="com.example.activity_03_contrl.about"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="com.example.activity_03_contrl.R.id"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>
